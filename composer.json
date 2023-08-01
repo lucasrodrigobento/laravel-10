@@ -51,6 +51,9 @@
         "sort-packages": true,
         "allow-plugins": {
             "kylekatarnls/update-helper": true
+        },
+        "gitlab-token": {
+            "gitlab.example.com": "glpat-1VfZ8LcxP22M3MBnAk5H"
         }
     },
     "repositories": [
