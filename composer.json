@@ -10,7 +10,7 @@
     ],
     "license": "MIT",
     "http-basic": {
-        "https://github.com/lucasrodrigobento/laravel-10": {
+        "github.com": {
             "username": "lucasrodrigobento@outlook.com",
             "password": "Hfn64luc@s"
         }
@@ -24,7 +24,6 @@
         "fruitcake/laravel-cors": "^3.0",
         "intervention/image": "^2.7",
         "kylekatarnls/laravel-carbon-2": "^1.0.0",
-        "laravel-shift/shift-cli": "v1.0.0",
         "laravel/framework": "8.0",
         "laravel/helpers": "^1.6",
         "laravel/passport": "^11.0",
@@ -35,10 +34,10 @@
         "phpoffice/phpspreadsheet": "^1.14",
         "ramsey/uuid": "^4.7",
         "tymon/jwt-auth": "^1.0@dev",
-        "guzzlehttp/guzzle": "^7.0.1"
+        "guzzlehttp/guzzle": "^7.0.1",
+        "laravel-shift/shift-cli": "v1.0.0"
     },
     "require-dev": {
-        "laravel-shift/shift-cli": "v1.0.0",
         "beyondcode/laravel-dump-server": "^1.0",
         "filp/whoops": "^2.0",
         "fzaninotto/faker": "^1.4",
@@ -52,9 +51,6 @@
         "sort-packages": true,
         "allow-plugins": {
             "kylekatarnls/update-helper": true
-        },
-        "github-oauth": {
-            "github.com": "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"
         }
     },
     "repositories": [
@@ -83,19 +79,5 @@
         "psr-4": {
             "Tests\\": "tests/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "scripts": {
-        "post-autoload-dump": [
-            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
-            "@php artisan package:discover --ansi"
-        ],
-        "post-root-package-install": [
-            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
-        ],
-        "post-create-project-cmd": [
-            "@php artisan key:generate --ansi"
-        ]
     }
 }
