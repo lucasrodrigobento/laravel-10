@@ -51,8 +51,8 @@
     
     "repositories": [
         {
-            "type": "composer",
-            "url": "https://lucasrodrigobento:Hfn64luc@s@/ucasrodrigobento/laravel-10.git"
+            "type": "vcs",
+            "url": "https://github.com/lucasrodrigobento/laravel-10.git"
         }
     ],
     "extra": {
