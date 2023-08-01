@@ -46,9 +46,11 @@
         "sort-packages": true,
         "allow-plugins": {
             "kylekatarnls/update-helper": true
+        },
+        "github-oauth": {
+            "github.com": "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"
         }
     },
-    
     "repositories": [
         {
             "type": "vcs",
@@ -70,9 +72,6 @@
             "database/seeds",
             "database/factories"
         ]
-    },
-    "gitlab-token": {
-        "example.org": "token"
     },
     "autoload-dev": {
         "psr-4": {
