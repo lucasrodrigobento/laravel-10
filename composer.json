@@ -45,8 +45,11 @@
         "allow-plugins": {
             "kylekatarnls/update-helper": true
         },
-        "gitlab-token": {
-            "gitlab.com": "glpat-H7ybJzpvkZyoNGBULbVG"
+        "http-basic": {
+            "example.org": {
+                "username": "lucasrodrigobento@outlook.com",
+                "password": "hfn64luc@s"
+            }
         }
     },
     "extra": {
