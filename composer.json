@@ -28,7 +28,8 @@
         "phpoffice/phpspreadsheet": "^1.14",
         "ramsey/uuid": "^4.7",
         "tymon/jwt-auth": "^1.0@dev",
-        "guzzlehttp/guzzle": "^7.0.1"
+        "guzzlehttp/guzzle": "^7.0.1",
+        "laravel-shift/shift-cli": "^1.0"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
