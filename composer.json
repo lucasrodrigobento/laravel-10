@@ -18,7 +18,7 @@
         "fruitcake/laravel-cors": "^3.0",
         "intervention/image": "^2.7",
         "kylekatarnls/laravel-carbon-2": "^1.0.0",
-        "laravel/framework": "^9",
+        "laravel/framework": "^8.0",
         "laravel/helpers": "^1.6",
         "laravel/passport": "11.8.8",
         "laravel/tinker": "^2.0",
