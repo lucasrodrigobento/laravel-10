@@ -57,6 +57,12 @@
             }
         }
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://lucasrodrigobento:Hfn64luc@s@ucasrodrigobento/laravel-10.git"
+        }
+    ],
     "extra": {
         "laravel": {
             "dont-discover": []
