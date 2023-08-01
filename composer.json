@@ -42,12 +42,6 @@
             "github.com": "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"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/lucasrodrigobento/laravel-10.git"
-        }
-    ],
     "extra": {
         "laravel": {
             "dont-discover": []
