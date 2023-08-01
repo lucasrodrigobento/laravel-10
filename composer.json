@@ -18,9 +18,10 @@
         "fruitcake/laravel-cors": "^3.0",
         "intervention/image": "^2.7",
         "kylekatarnls/laravel-carbon-2": "^1.0.0",
-        "laravel/framework": "8.40.0",
+        "laravel-shift/shift-cli": "v1.0.0",
+        "laravel/framework": "8.0",
         "laravel/helpers": "^1.6",
-        "laravel/passport": "11.8.8",
+        "laravel/passport": "^11.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^3.0",
         "lcobucci/jwt": "^4.0",
@@ -28,8 +29,7 @@
         "phpoffice/phpspreadsheet": "^1.14",
         "ramsey/uuid": "^4.7",
         "tymon/jwt-auth": "^1.0@dev",
-        "guzzlehttp/guzzle": "^7.0.1",
-        "laravel-shift/shift-cli": "^1.0"
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "require-dev": {
         "laravel-shift/shift-cli": "v1.0.0",
