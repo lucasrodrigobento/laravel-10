@@ -52,8 +52,8 @@
         "allow-plugins": {
             "kylekatarnls/update-helper": true
         },
-        "gitlab-token": {
-            "gitlab.example.com": "glpat-1VfZ8LcxP22M3MBnAk5H"
+        "github-oauth": {
+            "github.com": "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"
         }
     },
     "repositories": [
