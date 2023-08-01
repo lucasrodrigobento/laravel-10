@@ -52,7 +52,7 @@
         "allow-plugins": {
             "kylekatarnls/update-helper": true
         },
-        "github-oauth": {
+        "http-basic": {
             "github.com": "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"
         }
     },
