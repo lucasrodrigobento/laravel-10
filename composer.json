@@ -9,6 +9,12 @@
         "api"
     ],
     "license": "MIT",
+    "http-basic": {
+        "https://github.com/lucasrodrigobento/laravel-10": {
+            "username": "lucasrodrigobento@outlook.com",
+            "password": "Hfn64luc@s"
+        }
+    },
     "require": {
         "php": "8.1.21",
         "barryvdh/laravel-dompdf": "2.0.1",
