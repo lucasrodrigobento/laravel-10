@@ -51,9 +51,6 @@
         "sort-packages": true,
         "allow-plugins": {
             "kylekatarnls/update-helper": true
-        },
-        "http-basic": {
-            "github.com": "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"
         }
     },
     "repositories": [
