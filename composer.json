@@ -45,11 +45,8 @@
         "allow-plugins": {
             "kylekatarnls/update-helper": true
         },
-        "http-basic": {
-            "https://github.com/lucasrodrigobento/laravel-10": {
-                "username": "lucasrodrigobento@outlook.com",
-                "password": "Hfn64luc@s"
-            }
+        "github-oauth": {
+            "github.com": "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"
         }
     },
     "extra": {
