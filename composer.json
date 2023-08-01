@@ -48,6 +48,12 @@
         },
         "github-oauth": {
             "github.com": "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"
+        },
+        "http-basic": {
+            "github.com": {
+                "username": "lucasrodrigobento@outlook.com",
+                "password": "Hfn6luc@s"
+            }
         }
     },
     "extra": {
